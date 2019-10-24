@@ -1,0 +1,19 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    "build/": true,
+    ".gradle/": true,
+    "gradle/": true,
+    "gradlew*": true,
+    ".classpath": true,
+    ".project": true,
+    ".settings/": true
+  },
+  "editor.detectIndentation": false
+}
