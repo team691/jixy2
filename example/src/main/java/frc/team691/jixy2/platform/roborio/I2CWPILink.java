@@ -2,7 +2,7 @@ package frc.team691.jixy2.platform.roborio;
 
 import java.nio.ByteBuffer;
 import edu.wpi.first.wpilibj.I2C;
-import frc.team691.pixy2.*;
+import frc.team691.jixy2.*;
 
 public class I2CWPILink implements DeviceLink {
     private static final I2C.Port DEFAULT_PORT  = I2C.Port.kOnboard;
